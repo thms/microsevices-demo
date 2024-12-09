@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "appmetrics-zipkin": "^1.1.1",
-    "axios": "^0.18.0",
+    "axios": "^1.7.8",
     "consul": "^0.32.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
-    "express": "~4.16.0",
+    "express": "~4.21.2",
     "express-jwt": "^5.3.1",
     "express-jwt-permissions": "^1.2.1",
     "http-errors": "~1.6.2",
